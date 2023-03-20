@@ -13,6 +13,7 @@ events:
   - xerox-bravo
   - xerox-gypsy
   - wordstar-editor
+  - word-perfect
   - swyftware
   - canon-cat
   - xerox-cedar
