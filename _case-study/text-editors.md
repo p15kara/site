@@ -7,7 +7,7 @@ categories:
  - Μελέτη Περίπτωσης
  - Επεξεργαστής Κειμένου
  - Εργαλεία
- tags:
+tags:
  - text editor
  - UNIX
 ---
